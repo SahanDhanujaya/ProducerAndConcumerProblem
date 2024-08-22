@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/ProducerAndConsumerProblem/target/
+/ProducerConcumerProbResolve/target/
